@@ -1,0 +1,27 @@
+/target
+/bin
+/RemoteSystemsTempFiles
+
+# Compiled source #
+*.class
+
+# Eclipse generated files #
+.classpath
+*.project
+*.settings
+
+# NetBeans generated files #
+.nbactions.xml
+.navData
+.catalog.xml
+nb-configuration.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.metadata/
+
+#IntelliJ
+*.idea
+*iml
